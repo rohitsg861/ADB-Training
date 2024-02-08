@@ -1,1 +1,1 @@
-print ('welcome to Databrickss')
+print ('welcome to Databricks')
